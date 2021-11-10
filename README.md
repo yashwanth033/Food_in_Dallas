@@ -57,7 +57,7 @@ The location data is properly seperated based on zipcode, so we cannot make any 
 
 ## Usage
 
-This project is best viewed in a notebook viewer, which can be accessed [here](https://nbviewer.jupyter.org/github/justinmlam/foodcouver/blob/master/foodcouver.ipynb). In this notebook, you will find a walk through of the work done and the respective code.
+This project is best viewed in a notebook viewer, which can be accessed [here](https://nbviewer.org/github/yashwanth033/Food_in_Dallas/blob/main/food_at_dallas.ipynb). In this notebook, you will find a walk through of the work done and the respective code.
 
 ## Legality
 This is a personal project made for non-commercial uses ONLY. This project will not be used to generate any promotional or monetary value for me, the creator, or the user.
