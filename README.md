@@ -28,30 +28,30 @@ In this exploratory data analysis, I found out answers to these questions and mo
 ## Findings
 
 ### Summary Statistics
-![summarystatistics](https://user-images.githubusercontent.com/50093891/79916155-19146700-83dd-11ea-8559-ab08a5d642e9.png)
+![summarystatistics](https://github.com/yashwanth033/Food_in_Dallas/blob/main/summary_statistics.png)
 Here are the general summary statistics for restaurants in Dallas, TX, according to Yelp data. As we can see in the above graphs, most restaurants have < 500 reviews, most are within a rating of 4.0 - 4.5, and majority are given a double money sign in terms of price ($$).
 
 ### Categorical Statistics
-![category](https://user-images.githubusercontent.com/50093891/80263801-b2928180-8646-11ea-9e51-1040f3e7592e.png)
+![category](https://github.com/yashwanth033/Food_in_Dallas/blob/main/Categorical_statistics.png)
 Next, we will look at categorical data of the same properties. The graphs above show the top 5 for each property, but you will be able to see more results in the main project notebook. This data suggests that most categories are pretty close in terms of average price and rating. We have many NewAmerican restaurants in Dallas, TX.
 
 ### Geographic Statistics
 Lastly, we have data for the areas of Dallas, TX for average rating, restaurant density, average price, and review count.
 
 **Average Rating**
-![average_rating](https://user-images.githubusercontent.com/50093891/79916236-3cd7ad00-83dd-11ea-8524-81051448bf93.png)<br />
+![average_rating](https://github.com/yashwanth033/Food_in_Dallas/blob/main/Location.png)<br />
 
 
 **Restaurant Density**
-![restaurant_density](https://user-images.githubusercontent.com/50093891/79916255-46611500-83dd-11ea-8d58-d0f3a522621b.png)<br />
+![restaurant_density](https://github.com/yashwanth033/Food_in_Dallas/blob/main/Location.png)<br />
 
 
 **Average Price**
-![average_price](https://user-images.githubusercontent.com/50093891/79916303-5842b800-83dd-11ea-837f-d5e70073cd59.png)<br />
+![average_price](https://github.com/yashwanth033/Food_in_Dallas/blob/main/Location.png)<br />
 
 
 **Review Count**
-![review_count](https://user-images.githubusercontent.com/50093891/79916348-6b558800-83dd-11ea-9438-d92d6b1fc351.png)<br />
+![review_count](https://github.com/yashwanth033/Food_in_Dallas/blob/main/Location.png)<br />
 The location data is properly seperated based on zipcode, so we cannot make any conclusions based on geography.
 
 
